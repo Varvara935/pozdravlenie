@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+img {
+  width: 500px;
+  height: 350px;
+  margin-left: 100px;
+}
+header h1 { text-align: center;
+background-color: #95256C; 
+color: #7AE969;}
+footer p {
+    background-color: #95256C; 
+    color: #7AE969;
+}
+footer{ background-color: #95256C;}
+a{
+    text-decoration: none;
+    border: 1px solid #7AE969;
+    background-color: #7AE969;
+    color: #95256C;
+}
